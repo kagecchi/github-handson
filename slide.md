@@ -28,6 +28,7 @@ https://chokkoyamada.github.io/github-handson/
 1. 自己紹介
 2. このセッションでやること
 3. GitHubに登録してみよう
+4. ああああ
 
 ---
 
